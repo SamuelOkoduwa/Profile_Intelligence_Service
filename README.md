@@ -283,5 +283,5 @@ Possible upstream messages:
 Example production base URL section:
 
 ```text
-Base URL: https://your-deployed-app.example.com
+profileintelligenceservice-production-684d.up.railway.app
 ```
