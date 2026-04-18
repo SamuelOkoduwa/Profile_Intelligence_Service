@@ -1,8 +1,6 @@
 # Profile Intelligence Service
 
-A Node.js and Express backend for the HNG14 Stage 1 Backend task.
-
-This service accepts a name, enriches it with data from external APIs, stores the processed result in PostgreSQL, and exposes endpoints to retrieve, filter, and delete saved profiles.
+    This service accepts a name, enriches it with data from external APIs, stores the processed result in PostgreSQL, and exposes endpoints to retrieve, filter, and delete saved profiles.
 
 ## Features
 
