@@ -272,14 +272,9 @@ Possible upstream messages:
 - Profile creation is idempotent by name.
 - The database schema is created automatically on startup.
 
-## Submission Checklist
 
-- Add your public GitHub repository URL
-- Deploy the API to a public host
-- Add your production base URL here before submission
 
-Example production base URL section:
 
-```text
+**URL**: ```text
 profileintelligenceservice-production-684d.up.railway.app
 ```
